@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 projects_psw.py
 requirements.txt
+project_pswd.py
